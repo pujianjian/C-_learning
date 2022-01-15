@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{60F6D5F7-6E69-4CAF-BE02-E38C57510DCB}</ProjectGuid>
-    <RootNamespace>c_learning</RootNamespace>
+    <ProjectGuid>{7E64C32A-CD04-4CA6-8C6D-67A5A141A927}</ProjectGuid>
+    <RootNamespace>learning_C</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,6 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="duotai_virtual.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
