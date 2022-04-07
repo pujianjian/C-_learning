@@ -1,0 +1,3 @@
+E:/learning_notes/Computer_vision_applications/c++/c++_code/C++_learningg/cmake-build-debug/CMakeFiles/C++_learning.dir
+E:/learning_notes/Computer_vision_applications/c++/c++_code/C++_learningg/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/learning_notes/Computer_vision_applications/c++/c++_code/C++_learningg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
